@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Born on 14-07-1991 Roosendaal, NL
 
-### More Information
+Living in Turnhout, BE
 
-A place to include any other types of information that you'd like to include about yourself.
+Speaks Dutch and English
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+> "Automate everything, so you can focus on the important tasks and become more productive and efficient"
+
+***Mandy - 2016***
+
+ 
+Find more information about me on my [Stack Overflow page](https://stackoverflow.com/users/story/2886845)
